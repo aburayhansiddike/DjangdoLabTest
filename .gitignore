@@ -1,0 +1,18 @@
+#pycharm files
+.idea/
+
+#virtual environment
+venv/
+
+#Djando migration files
+**/migrations/
+
+# Compiled Python files
+*.pyc
+
+# Log files
+*.log
+
+# Other user-generated files
+*.pyo
+*.DS_Store
